@@ -1,0 +1,8 @@
+{
+    "product":  "MyPoolBot-Host",
+    "version":  "0.1.0",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.1.0.bin",
+    "sha256":  "BE5BC7BAB7F95C93804E4F613FA8A1CEA6D06B05147C8A241FAF9779777C5494",
+    "minimum_version":  "0.1.0",
+    "release_notes":  "Initial versioned Host firmware publication."
+}

@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Host",
-    "version":  "0.1.0",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.1.0.bin",
-    "sha256":  "BE5BC7BAB7F95C93804E4F613FA8A1CEA6D06B05147C8A241FAF9779777C5494",
+    "version":  "0.2.0",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.2.0.bin",
+    "sha256":  "D1361F70CA1953C9F1957C5F26C07C845E4432BC1449105EC5BE25C4C534C1A6",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Initial versioned Host firmware publication."
+    "release_notes":  "Adds automatic and web-triggered OTA updates, version display, and five purple NeoPixel flashes at startup."
 }

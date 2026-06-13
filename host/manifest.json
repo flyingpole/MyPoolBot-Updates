@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Host",
-    "version":  "0.2.1",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.2.1.bin",
-    "sha256":  "586C837EB82A8FCFAAC41709A5148A6C1A216FE9D6E7464CE4C5CF81AE57BF77",
+    "version":  "0.2.2",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.2.2.bin",
+    "sha256":  "942F0C31D33D0DBD9499252E8124C6B581763C834776D0F951A5D77466597F78",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Changes the five startup NeoPixel test flashes from purple to white."
+    "release_notes":  "Adds Home Wi-Fi and Float ESP-NOW signal-strength reporting to the dashboard and OLED."
 }

@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Host",
-    "version":  "0.2.2",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.2.2.bin",
-    "sha256":  "942F0C31D33D0DBD9499252E8124C6B581763C834776D0F951A5D77466597F78",
+    "version":  "0.3.0",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.0.bin",
+    "sha256":  "C191B35FEAFB057983954AD62E36BAF2F0B1DBE42E36C39A79CED1CF392A6AD2",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Adds Home Wi-Fi and Float ESP-NOW signal-strength reporting to the dashboard and OLED."
+    "release_notes":  "Adds Host-coordinated Float firmware updates over temporary home Wi-Fi."
 }

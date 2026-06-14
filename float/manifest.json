@@ -1,0 +1,8 @@
+{
+    "product":  "MyPoolBot-Float",
+    "version":  "0.1.0",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.0.bin",
+    "sha256":  "AC4796C582FB2EE0974DFBE55202D3DF2F5CA72894091051B58133DFBFF921AA",
+    "minimum_version":  "0.1.0",
+    "release_notes":  "Initial Float firmware with Host-coordinated temporary home Wi-Fi OTA support."
+}

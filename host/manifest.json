@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Host",
-    "version":  "0.3.1",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.1.bin",
-    "sha256":  "F11CA5FE4B4B4E5FE149F958B3B41246DB80706C72BFE59E0422E6B048A6B685",
+    "version":  "0.3.2",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.2.bin",
+    "sha256":  "87168A0AAA8A5AD6C6921EFDEA8AE53C808F3D4C4075B142D02C689183212B93",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Adds LiFePO4 battery percentage estimates alongside raw Float battery voltage."
+    "release_notes":  "Adds persisted Float battery-type selection to the Operation Settings web page."
 }

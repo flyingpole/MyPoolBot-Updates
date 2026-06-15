@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Float",
-    "version":  "0.1.5",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.5.bin",
-    "sha256":  "308E90A0542C57E85EAD2D39924F74B1D0EE303DE3CA9F82F3D5FBA2AEF5326C",
+    "version":  "0.1.6",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.6.bin",
+    "sha256":  "3DC08A758D0F009832E9A45DFB54464B25002935BEE99818D24DD2BA948FB6CB",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Moves the Float battery ADC input to the accessible main edge pin D3/A3/GPIO4."
+    "release_notes":  "Calibrates the D3/GPIO4 battery reading against a 4.180 V reference and increases ADC averaging."
 }

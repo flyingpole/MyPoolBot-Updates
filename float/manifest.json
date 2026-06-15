@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Float",
-    "version":  "0.1.1",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.1.bin",
-    "sha256":  "AB6075F748E7A3517CB40ADE5AF9C14C2CDFE8FBFD8F6724AF497BE7E330F5D2",
+    "version":  "0.1.2",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.2.bin",
+    "sha256":  "2E12E6665AC638A3260DCE9CEBC6BF83B916CF7225C9E94EBE8863F2C7A8374B",
     "minimum_version":  "0.1.0",
-    "release_notes":  "OTA test release: flashes the Float onboard LED twice after normal ESP-NOW transmit and receive."
+    "release_notes":  "Enables Float battery-voltage monitoring using the installed GPIO-switched divider."
 }

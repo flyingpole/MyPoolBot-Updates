@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Float",
-    "version":  "0.1.4",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.4.bin",
-    "sha256":  "D187C91E1F60940D56B43B70CEB27F9954DC74E41A65DC91041AF5644D22EF69",
+    "version":  "0.1.5",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.5.bin",
+    "sha256":  "308E90A0542C57E85EAD2D39924F74B1D0EE303DE3CA9F82F3D5FBA2AEF5326C",
     "minimum_version":  "0.1.0",
     "release_notes":  "Calibrates the installed 220k/220k battery divider against a measured 4.200 V reference."
 }

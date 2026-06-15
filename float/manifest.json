@@ -4,5 +4,5 @@
     "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.4.bin",
     "sha256":  "D187C91E1F60940D56B43B70CEB27F9954DC74E41A65DC91041AF5644D22EF69",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Increases battery-divider settling time for two 220k resistors and the installed 0.1 uF filter capacitor."
+    "release_notes":  "Calibrates the installed 220k/220k battery divider against a measured 4.200 V reference."
 }

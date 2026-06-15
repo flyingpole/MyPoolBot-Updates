@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Host",
-    "version":  "0.3.4",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.4.bin",
-    "sha256":  "B34511CDAF615D6F30ECC844A97E7499210F6D0BA515AC13C44165C415A809FC",
+    "version":  "0.3.5",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.5.bin",
+    "sha256":  "DE1982FA6B15546A637277FEBE212A3883CC23AC96CE2F335D6B7EE64D37019A",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Changes the default Float battery chemistry to 3.7 V Li-ion/LiPo."
+    "release_notes":  "Adds persistent Host-side Float battery calibration through Operation Settings."
 }

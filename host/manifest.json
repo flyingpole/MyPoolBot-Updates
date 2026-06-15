@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Host",
-    "version":  "0.3.6",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.6.bin",
-    "sha256":  "2CC03C514E2A912AA57E8E42ED3DD3D1AAAA4D7355D7813D6B0A13794D5F538C",
+    "version":  "0.3.7",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.7.bin",
+    "sha256":  "8A7AAC14F23417D2ED682277D17E79E228CF386CB960EFAE4115A7919CF4921E",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Uses a rolling median for reliable battery calibration and clarifies battery chemistry selection."
+    "release_notes":  "Groups gallons-per-minute and flow-meter settings under a dedicated Flow Rate section."
 }

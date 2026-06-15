@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Float",
-    "version":  "0.1.3",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.3.bin",
-    "sha256":  "9840F00E809485D320B0EE829E273DA49F881C1BB2AEC4DC4F91EE096A8912C5",
+    "version":  "0.1.4",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.4.bin",
+    "sha256":  "D187C91E1F60940D56B43B70CEB27F9954DC74E41A65DC91041AF5644D22EF69",
     "minimum_version":  "0.1.0",
     "release_notes":  "Increases battery-divider settling time for two 220k resistors and the installed 0.1 uF filter capacitor."
 }

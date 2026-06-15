@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Host",
-    "version":  "0.3.5",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.5.bin",
-    "sha256":  "DE1982FA6B15546A637277FEBE212A3883CC23AC96CE2F335D6B7EE64D37019A",
+    "version":  "0.3.6",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.6.bin",
+    "sha256":  "2CC03C514E2A912AA57E8E42ED3DD3D1AAAA4D7355D7813D6B0A13794D5F538C",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Adds persistent Host-side Float battery calibration through Operation Settings."
+    "release_notes":  "Uses a rolling median for reliable battery calibration and clarifies battery chemistry selection."
 }

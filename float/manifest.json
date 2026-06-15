@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Float",
-    "version":  "0.1.2",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.2.bin",
-    "sha256":  "2E12E6665AC638A3260DCE9CEBC6BF83B916CF7225C9E94EBE8863F2C7A8374B",
+    "version":  "0.1.3",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.3.bin",
+    "sha256":  "9840F00E809485D320B0EE829E273DA49F881C1BB2AEC4DC4F91EE096A8912C5",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Enables Float battery-voltage monitoring using the installed GPIO-switched divider."
+    "release_notes":  "Increases battery-divider settling time for two 220k resistors and the installed 0.1 uF filter capacitor."
 }

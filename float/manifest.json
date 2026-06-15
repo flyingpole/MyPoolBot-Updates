@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Float",
-    "version":  "0.1.6",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.6.bin",
-    "sha256":  "3DC08A758D0F009832E9A45DFB54464B25002935BEE99818D24DD2BA948FB6CB",
+    "version":  "0.1.7",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.7.bin",
+    "sha256":  "AE2046E510403A0DB80E503FCE5320E7CE49EB58E2507B488037099FF4E20055",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Calibrates the D3/GPIO4 battery reading against a 4.180 V reference and increases ADC averaging."
+    "release_notes":  "Sends uncalibrated D3/GPIO4 battery voltage so calibration can be managed by the Host."
 }

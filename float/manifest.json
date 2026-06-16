@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Float",
-    "version":  "0.1.7",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.7.bin",
-    "sha256":  "AE2046E510403A0DB80E503FCE5320E7CE49EB58E2507B488037099FF4E20055",
+    "version":  "0.1.8",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.8.bin",
+    "sha256":  "E007689C0530F8A1C942290A17174C443F45AF0A554EFC04B60E1C040217C505",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Sends uncalibrated D3/GPIO4 battery voltage so calibration can be managed by the Host."
+    "release_notes":  "Disables normal ESP-NOW send/receive LED flashes on the Float to reduce power use."
 }

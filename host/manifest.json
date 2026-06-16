@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Host",
-    "version":  "0.3.8",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.8.bin",
-    "sha256":  "D7D3BC0F227C9FFE784004FF27AFEB3B8CC460E86E5E852FEDE86EB81DDA1748",
+    "version":  "0.3.9",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.9.bin",
+    "sha256":  "E2D75AB316E32FEC4EC66F72482DB13FFE51EB3880C85DB744CC7F40F5DF8B53",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Adds a dashboard manual valve override switch with existing stale-update and max-fill safety shutdowns."
+    "release_notes":  "Improves the OLED layout with a larger title, battery bars, signal icons, and IP port display."
 }

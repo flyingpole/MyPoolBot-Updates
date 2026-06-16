@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Host",
-    "version":  "0.3.10",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.10.bin",
-    "sha256":  "DA1F30ACF6F53866A006D16461C0ABCF9A161B2E2CD0EE9A662129075C2180C2",
+    "version":  "0.3.11",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.11.bin",
+    "sha256":  "80B1A20D4DE36B5E7345EE0898940C7699E65D198010BD94DA01B0534847F7C7",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Tightens the OLED title and status lines to prevent overlap on the 128x64 display."
+    "release_notes":  "Shows WiFi:N/A and hides the IP line on the OLED when home Wi-Fi is not connected."
 }

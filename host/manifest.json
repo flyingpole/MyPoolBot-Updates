@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Host",
-    "version":  "0.3.7",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.7.bin",
-    "sha256":  "8A7AAC14F23417D2ED682277D17E79E228CF386CB960EFAE4115A7919CF4921E",
+    "version":  "0.3.8",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.8.bin",
+    "sha256":  "D7D3BC0F227C9FFE784004FF27AFEB3B8CC460E86E5E852FEDE86EB81DDA1748",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Groups gallons-per-minute and flow-meter settings under a dedicated Flow Rate section."
+    "release_notes":  "Adds a dashboard manual valve override switch with existing stale-update and max-fill safety shutdowns."
 }

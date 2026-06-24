@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Float",
-    "version":  "0.1.8",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.8.bin",
-    "sha256":  "E007689C0530F8A1C942290A17174C443F45AF0A554EFC04B60E1C040217C505",
+    "version":  "0.1.9",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.9.bin",
+    "sha256":  "BF6E4A7F5F48FDCB569EEB9A32378580208F0C97180EB2D1D4A06D628CAD71F2",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Disables normal ESP-NOW send/receive LED flashes on the Float to reduce power use."
+    "release_notes":  "Adds Float debug pairing behavior, startup LED flashes, COM13 support, and quieter handling of stale ESP-NOW ACK retries."
 }

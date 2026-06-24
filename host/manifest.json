@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Host",
-    "version":  "0.3.11",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.11.bin",
-    "sha256":  "80B1A20D4DE36B5E7345EE0898940C7699E65D198010BD94DA01B0534847F7C7",
+    "version":  "0.3.12",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.12.bin",
+    "sha256":  "1FCD114F07A5FF2D26F12B0F542F1336299F5CE65110CCA9684DECBCCC0E7AE8",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Shows WiFi:N/A and hides the IP line on the OLED when home Wi-Fi is not connected."
+    "release_notes":  "Keeps ESP-NOW ACK handling independent of home Wi-Fi reconnect state and improves ACK diagnostics."
 }

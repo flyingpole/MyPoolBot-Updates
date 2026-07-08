@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Host",
-    "version":  "0.3.15",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.15.bin",
-    "sha256":  "B48277A394B3BEA94FEE2978DCBACF5DFFB57D3D328168BA31385B8A57A240D4",
+    "version":  "0.3.16",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.16.bin",
+    "sha256":  "A029A274FBB56C1AA2D08D8CB57E23EC4EA083885AFCB6E3AD25D8FC3EB39352",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Adds Host OTA reconnect/redirect page, post-update success notice, and source header version tags."
+    "release_notes":  "Makes the Host OTA waiting page redirect reliably after reboot, including auth-challenge and dashboard-reachable cases."
 }

@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Float",
-    "version":  "0.1.9",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.9.bin",
-    "sha256":  "BF6E4A7F5F48FDCB569EEB9A32378580208F0C97180EB2D1D4A06D628CAD71F2",
+    "version":  "0.1.10",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.10.bin",
+    "sha256":  "028C92E515D26A3CB8AF0C729BD3F22A1D12324FD47016B2ECD65F43E2B21B77",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Adds Float debug pairing behavior, startup LED flashes, COM13 support, and quieter handling of stale ESP-NOW ACK retries."
+    "release_notes":  "Adds Float Set mode for level adjustment and restores Set-button pairing during reset or power-up."
 }

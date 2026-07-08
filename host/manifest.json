@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Host",
-    "version":  "0.3.18",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.18.bin",
-    "sha256":  "B909CE6FE4DE240B15CD8E8B28C825A617BC480438D6FCD4DFE92F521E22281E",
+    "version":  "0.3.19",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.19.bin",
+    "sha256":  "7AFB8890A0913466C0C124CE5A8133FD1F323F1E7824BCDD00B65B6B8EF6B38C",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Makes the Host status NeoPixel flash red quickly when Float communication is stale."
+    "release_notes":  "Adds timeouts and a hard Dashboard redirect to the Host OTA waiting page after reboot."
 }

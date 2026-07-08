@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Host",
-    "version":  "0.3.12",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.12.bin",
-    "sha256":  "1FCD114F07A5FF2D26F12B0F542F1336299F5CE65110CCA9684DECBCCC0E7AE8",
+    "version":  "0.3.13",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.13.bin",
+    "sha256":  "C745611FB3768FD915D373B5B67F0CCE523DBCE94E7017EA46EBD9CCA2A2D408",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Keeps ESP-NOW ACK handling independent of home Wi-Fi reconnect state and improves ACK diagnostics."
+    "release_notes":  "Adds a User Manual page and Dashboard button to the Controller website."
 }

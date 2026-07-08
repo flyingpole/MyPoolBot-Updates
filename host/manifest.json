@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Host",
-    "version":  "0.3.13",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.13.bin",
-    "sha256":  "C745611FB3768FD915D373B5B67F0CCE523DBCE94E7017EA46EBD9CCA2A2D408",
+    "version":  "0.3.14",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.14.bin",
+    "sha256":  "DE0A2F5734C1112E08E54D0B8F104F5D390441335F550E5A403114124AF7F902",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Adds a User Manual page and Dashboard button to the Controller website."
+    "release_notes":  "Adds hourly 30-day Float battery history, battery-history reset, menu-only User Manual access, and unique setup Wi-Fi suffixes."
 }

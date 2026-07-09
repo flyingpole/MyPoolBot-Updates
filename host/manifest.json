@@ -2,7 +2,7 @@
     "product":  "MyPoolBot-Host",
     "version":  "0.3.21",
     "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.21.bin",
-    "sha256":  "752FF5D23E58BC143A5BCD810A74B58B4CD5CD8DFBFC3516972202E3AB459590",
+    "sha256":  "C55FA145105008B8FFEE195B5F38972841C7E0FE1020FAE3CB550942D45A3A96",
     "minimum_version":  "0.1.0",
     "release_notes":  "Adds configurable single-fill and rolling fill-time safety limits with dashboard lockout feedback and fill-history recommendations."
 }

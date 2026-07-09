@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Host",
-    "version":  "0.3.20",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.20.bin",
-    "sha256":  "FC0820EE40F776ED6C463295B1044CAB32188077B692B3FBBE78E27159D3AD03",
+    "version":  "0.3.21",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.21.bin",
+    "sha256":  "752FF5D23E58BC143A5BCD810A74B58B4CD5CD8DFBFC3516972202E3AB459590",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Uses state-machine timing for a smoother blue fill pulse and a steadier red stale-communication flash."
+    "release_notes":  "Adds configurable single-fill and rolling fill-time safety limits with dashboard lockout feedback and fill-history recommendations."
 }

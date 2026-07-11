@@ -4,5 +4,5 @@
     "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.24.bin",
     "sha256":  "B2A2C17086BA89B3C66346A8ADBEB7CF727480A0C422D51F9C41662E0AC5A6EA",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Adds a confirmed Dashboard button to reset the rolling fill-time lockout timer for 1 day without deleting fill history."
+    "release_notes":  "Adds Host OLED switch controls, local status pages, manual valve control, smoother filling indicators, and separate normal/filling Float wake intervals."
 }

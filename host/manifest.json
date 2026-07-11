@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Host",
-    "version":  "0.3.22",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.22.bin",
-    "sha256":  "066265A5F1E3ECA5EA849007104B0D9C6487CD0E7EDB0716C34267598E30B57A",
+    "version":  "0.3.24",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.24.bin",
+    "sha256":  "B2A2C17086BA89B3C66346A8ADBEB7CF727480A0C422D51F9C41662E0AC5A6EA",
     "minimum_version":  "0.1.0",
     "release_notes":  "Adds a confirmed Dashboard button to reset the rolling fill-time lockout timer for 1 day without deleting fill history."
 }

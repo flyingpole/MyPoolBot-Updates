@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Float",
-    "version":  "0.1.10",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.10.bin",
-    "sha256":  "028C92E515D26A3CB8AF0C729BD3F22A1D12324FD47016B2ECD65F43E2B21B77",
+    "version":  "0.1.11",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/float/MyPoolBot-Float-0.1.11.bin",
+    "sha256":  "000793A80AFE76DA3489B3D54D3B8CADC95843E6181C15DCCAB0A1C21DBDFACE",
     "minimum_version":  "0.1.0",
     "release_notes":  "Adds Float Set mode for level adjustment and restores Set-button pairing during reset or power-up."
 }

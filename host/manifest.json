@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Host",
-    "version":  "0.3.24",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.24.bin",
-    "sha256":  "B2A2C17086BA89B3C66346A8ADBEB7CF727480A0C422D51F9C41662E0AC5A6EA",
+    "version":  "0.3.25",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.25.bin",
+    "sha256":  "9FDD3F060CB2A4602563C665A44159B9F3A836CB12CD7395179A0C76381D028E",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Adds Host OLED switch controls, local status pages, manual valve control, smoother filling indicators, and separate normal/filling Float wake intervals."
+    "release_notes":  "Adds DS3231 RTC support, Time Settings for manual clock setup, internet-to-RTC synchronization, and moves the Host IP address to the OLED Info page."
 }

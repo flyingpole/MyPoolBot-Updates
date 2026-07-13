@@ -1,8 +1,8 @@
 {
     "product":  "MyPoolBot-Host",
-    "version":  "0.3.25",
-    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.25.bin",
-    "sha256":  "9FDD3F060CB2A4602563C665A44159B9F3A836CB12CD7395179A0C76381D028E",
+    "version":  "0.3.26",
+    "firmware_url":  "https://flyingpole.github.io/MyPoolBot-Updates/host/MyPoolBot-Host-0.3.26.bin",
+    "sha256":  "7867CC08983E7F8089F12DFEC94D12D97F378FA8C1F4998995EDD3908E3D6428",
     "minimum_version":  "0.1.0",
-    "release_notes":  "Adds DS3231 RTC support, Time Settings for manual clock setup, internet-to-RTC synchronization, and moves the Host IP address to the OLED Info page."
+    "release_notes":  "Fixes fill history CSV export retention, includes active fills in CSV download, and makes short Enter presses start or stop manual filling from the main OLED screen."
 }
